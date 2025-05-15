@@ -4,7 +4,10 @@ Modern • Clean • Frontend Focus • Interactive
 -->
 
 <h1 align="center">Hi 👋, I'm Joe Destefano</h1>
-<h3 align="center">Frontend-Focused Full-Stack Developer | Next.js Enthusiast | UX Advocate</h3>
+<h3 align="center">
+  Frontend-Focused Full-Stack Developer | Next.js Enthusiast | UX Advocate<br />
+  Blockchain & Cybersecurity Enthusiast 
+</h3>
 
 <p align="center">
   <a href="https://destefanojoewebdev.com" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
