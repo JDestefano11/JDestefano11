@@ -46,18 +46,10 @@ Modern • Clean • Professional • Interactive
 
 ## 🌟 Featured Projects
 
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| **StrivFitness** | A Next.js app for tracking workouts, goals & progress analytics. | [GitHub](https://github.com/JDestefano11/StrivFitness.git) 
-| **Interview AI** | AI-powered interview practice app with real-time feedback and tips. | [GitHub](https://github.com/JDestefano11/interview-platform.git) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joedestefano&show_icons=true&theme=radical&count_private=true" alt="Joe's GitHub stats" />
-</p>
+| Project         | Description                                           | Link                                                                        |
+| --------------- | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **StrivFitness** | A Next.js app for tracking workouts, goals & progress analytics. | [GitHub](https://github.com/JDestefano11/StrivFitness.git)                  |
+| **Interview AI** | AI-powered interview practice app with real-time feedback and tips. | [GitHub](https://github.com/JDestefano11/interview-platform.git)            |
 
 ---
 
@@ -79,15 +71,4 @@ Modern • Clean • Professional • Interactive
 
 > "Code is temporary, but great user experience is forever."  
 > — Joe Destefano
-
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeadestefano/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://destefanojoewebdev.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joedestefano.webdev@gmail.com)
-
----
-
-> **"Code is temporary, but user experience is forever."**  
-— Joe Destefano
 
