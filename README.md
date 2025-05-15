@@ -67,6 +67,14 @@ Modern • Clean • Frontend Focus • Interactive
 
 ---
 
+## 🚧 In Progress
+
+### CFO Agenda Creator  
+AI-powered startup project to generate CFO meeting memos through multi-step document upload, AI analysis, and customizable outputs.  
+*Currently in development — repository coming soon!*
+
+---
+
 ## 📬 Let's Connect!
 
 <p align="center">
@@ -85,3 +93,4 @@ Modern • Clean • Frontend Focus • Interactive
 
 > _"Code is temporary, but great user experience is forever."_  
 > — Joe Destefano
+
