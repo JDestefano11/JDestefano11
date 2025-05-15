@@ -16,9 +16,6 @@ Modern • Clean • Frontend Focus • Interactive
   <a href="https://linkedin.com/in/joeadestefano" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/JDestefano11" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -77,9 +74,6 @@ Modern • Clean • Frontend Focus • Interactive
   </a>
   <a href="https://destefanojoewebdev.com" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/JDestefano11" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
