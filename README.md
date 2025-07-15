@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Who I Am
 
-I’m a **self-taught, frontend-focused full-stack developer** with a passion for building sleek, performant, and accessible apps. My background in **high-pressure team leadership** taught me how to move fast, adapt quickly, and solve real-world problems through code.
+I’m a **frontend-focused full-stack developer** with a passion for building sleek, performant, and accessible apps. My background in **high-pressure team leadership** taught me how to move fast, adapt quickly, and solve real-world problems through code.
 
 🧠 I combine **a designer’s eye** with a **developer’s logic**  
 🔥 Startup mindset: agile, iterative, results-first  
