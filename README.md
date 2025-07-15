@@ -1,7 +1,7 @@
 <!-- 🚀 Joe Destefano - GitHub Profile README -->
 <!-- Modern | UX-Driven | Frontend-Focused | Startup Minded -->
 
-<h1 align="center">Hey 👋 I'm Joe Destefano</h1>
+<h1 align="center">Hey, I'm Joe Destefano</h1>
 <h3 align="center">
   Frontend-Focused Full-Stack Developer | Next.js Specialist | UX/UI Enthusiast<br />
   Blockchain & Cybersecurity Curious | Problem Solver with a Startup Hustle
