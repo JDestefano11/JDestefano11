@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey, I'm Joe Destefano</h1>
 <h3 align="center">
-  Frontend-Focused Full-Stack Developer | Next.js Specialist<br />
+  Frontend-Focused Full-Stack Developer<br />
   Blockchain & Cybersecurity Enthusiast | Problem Solver with a Startup Hustle
 </h3>
 
